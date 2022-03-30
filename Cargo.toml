@@ -1,13 +1,12 @@
 [package]
-name = "imageproc"
-version = "0.22.0"
+name = "imageproc-patched"
+version = "0.22.0-unofficial.1-foresterre"
 authors = ["theotherphil"]
 edition = "2018"
 license = "MIT"
-description = "Image processing operations"
+description = "Image processing operations (unofficial release)"
 readme = "README.md"
-repository = "https://github.com/image-rs/imageproc.git"
-homepage = "https://github.com/image-rs/imageproc"
+repository = "https://github.com/foresterre/imageproc-patched.git"
 exclude = ["examples/*.ttf"]
 
 [features]
